@@ -23,7 +23,7 @@ gem 'redis', '~> 4.2'
 
 gem 'sidekiq', '~> 6' 
 
-gem 'semian', require: %w(semian semian/mysql2 semian/redis)
+gem 'semian', require: %w(semian semian/redis)
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
