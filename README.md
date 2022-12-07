@@ -7,5 +7,12 @@ This Simple Base App is a foundation for any quick Rails project. It helps you p
 # Summary
  - Ruby 3.1.1p18
  - Rails 6.1.5
+ - Mongo 7.3
+
+# Tools
+ - Sidekiq
+ - Redis
+ - Semian
+
  
  
